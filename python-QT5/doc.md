@@ -9,6 +9,7 @@
 `Manage Repositories` , add Chinese resources ,delete old source.
 [resource](https://blog.csdn.net/yang889999888/article/details/77672737)
 4. Install `PyQt5` and `pyqt5-tools`
-5. Open QT-designer, create new *.ui file, and design your own application 
+5. Open `QT-designer`, create new `*.ui` file, and design your own application 
 6. Open terminal ,and type `venv\Scripts\pyuic5.exe -x designer\testMain.ui -o testMainform.py`
+7. Now you can develop your own desktop application 
 
